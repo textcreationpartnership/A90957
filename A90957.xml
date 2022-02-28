@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A paradox. That designe upon religion, was not the cause of state misgovernment: but an effect of it.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90957</idno>
+            <idno type="STC">Wing P332</idno>
+            <idno type="STC">Thomason E19_7</idno>
+            <idno type="STC">ESTC R17629</idno>
+            <idno type="EEBO-CITATION">99860237</idno>
+            <idno type="PROQUEST">99860237</idno>
+            <idno type="VID">112354</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90957)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112354)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 4:E19[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A paradox. That designe upon religion, was not the cause of state misgovernment: but an effect of it.</title>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Novemb: 29".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112354:1" rendition="simple:additions"/>
+            <p>A PARADOX.</p>
+            <p>THAT DESIGNE UPON RELIGION, Was not the cauſe of STATE Miſ<g ref="char:EOLhyphen"/>government: But an effect of it.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>T. W.</hi> 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:112354:2"/>
+            <pb n="1" facs="tcp:112354:2"/>
+            <head>A PARADOX.</head>
+            <head type="sub">That deſigne upon Religion, was not the cau<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of State miſgovernment, but an effect of it.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Ow much the Engliſh Nation for many yeares has groaned under the oppreſſion of Illegall government, the meaneſt of underſtanding among all the people cannot be ignorant. The particular grievances are too well knowne, and too many to be recited in a ſhort Diſ<g ref="char:EOLhyphen"/>courſe: but whether thoſe illegall a<g ref="char:EOLhyphen"/>ctions of them that ſate at the Helme in England proceeded from meere injuſtice, and temporall ambition, or had a fur<g ref="char:EOLhyphen"/>ther end, as relating to Popery, and Ieſuiticall continuance, is made a great queſtion. Some ſuppoſe the latter; and thinke that ſo great a violation of Lawes tended not only to deprive the people of their juſt liberty, but to make them Papiſts as well as Slaves. And indeed there are great inducements to that ſuppoſition, conſidering the many entercourſes betweene Rome and the Engliſh Court of late yeares, the particulars of which are fully expreſſed in ſome rationall diſcourſes, which
+<pb n="2" facs="tcp:112354:3"/>I will not here meddle with at all. But let it be granted that there might be a concurrence of wicked deſignes upon this unhappy Nation: yet it is my opinion that Popery was not the firſt intended, and chiefe end of our Rulers; but rather ſubſervient to tyranny, or (as they called it) Abſolute Monar<g ref="char:EOLhyphen"/>chy. Nor can I thinke that the Ieſuits taught our Stateſmen to be unjuſt: but the unjuſtice of thoſe Stateſmen taught the Ieſuits to hope for their ends; and that the waters would be at laſt enough troubled for them to fiſh in. As we ſhall ſee the ancient Popes (though then the State of England was of their Religion, and there was nothing for them to ſeeke further in that kinde) did alwayes take advantage for their temporall ends upon ſuch times, and in the reignes of ſeduced Princes advance their revenues and civill power. Such Princes have therefore been moſt enſlaved by Popes, and their Thrones ſhaken by Papall thunderbolts, becauſe their Thrones were not ſo firmly eſtabliſhed in juſtice as they ſhould have beene. Then when there could be no aime at all at changing of Re<g ref="char:EOLhyphen"/>ligion, when there were no Ieſuits in the world to tempt or plot; this very Kingdome (for forreigne inſtances are not ſo proper) had ſeduced Princes and wicked Stateſmen, who acted the ſame parts that we have lately ſeene, who laboured to o<g ref="char:EOLhyphen"/>verthrow Parliaments, and utterly ſubvert the Lawes and Li<g ref="char:EOLhyphen"/>berties of the Kingdome; nor could they have taken greater paines to have brought in a new Religion, then they did to gaine an unlawfull power: by thoſe unhappy actions inſtead of ſtrengthning their eſtates, they much weakned them, and made themſelves lyable to the Popes temporall encroach<g ref="char:EOLhyphen"/>ments, and no doubt had they been of a different Religion, from the Pope, the ſame injuſtice had made them more ly<g ref="char:EOLhyphen"/>able to his Spirituall underminings; and his pretence had been fairer for Religion, though his end were not, which was
+<pb n="3" facs="tcp:112354:3"/>only power and revenue. For whoſoever knows hiſtory, can tell what were the great cauſes from time to time of the Popes anger againſt any Kingdome, and provoked his ex<g ref="char:EOLhyphen"/>communications and other cenſures, namely, denying of his power, and ſtopping his revenue; not contradicting the tenents of his Religion, unleſſe in the caſe only as that might cauſe the former. To keep a Towne, which he claimed from him, has beene called in plaine termes, Hereſie, and the parties ex<g ref="char:EOLhyphen"/>communicated in as great fury as if they had denyed an Ar<g ref="char:EOLhyphen"/>ticle of the Creed. <hi>Henry</hi> the eight, though he retained that Religion, yet for denying the Papall power, and revenue, was as great an Hereticke as Queen <hi>Elizabeth.</hi> And the King of Spaine in this age for detayning the Kingdome of Naples from him, is at certaine times accurſed in as ſolemne manner, as <hi>Arrius</hi> or the greateſt Heretick would be if he were living. So that we ſee it could not be matter of Religion, that cauſed either the Popes encroachments, or the injuſtice of thoſe Princes: but they were therefore more ſubject to the Popes injuries, becauſe they had loſt that ſhield that ſhould have beene their defence againſt him, the ſtrength of right govern<g ref="char:EOLhyphen"/>ment in a Parliamentary way; by which <hi>Edward</hi> the firſt was able to reſiſt him in thoſe things, which King <hi>Iohn</hi> and others could not doe. And as this Kingdome by bad government was made more lyable to thoſe encroachments in temporall caſes; ſo may it be in Spirituall matters, when thoſe fenſes are broken downe, by which (next under God) the Church is eſtabliſhed and defended: for if they can take away all privi<g ref="char:EOLhyphen"/>ledges of Parliament, and all lawfull power of reſiſtance from the repreſentative Body of the Kingdom, where is the ſtrength upon earth that ſhould defend our eſtabliſhed Religion? but whether our Rulers of late times; together with their injuſtice and oppreſſion of the people did intend to change Religion,
+<pb n="4" facs="tcp:112354:4"/>or not, I think we need not much trouble our ſelves to con<g ref="char:EOLhyphen"/>ſider: Though they had no deſigne upon Popery at all, yet were they enough guilty in robbing the People of thoſe Laws and Liberties which were their due, and a guard to whatſo<g ref="char:EOLhyphen"/>ever elſe they poſſeſſed. Therefore let a State look firſt upon that cauſe which is neereſt and moſt viſible. If we ſee thieves breaking of our houſe, we doe not ſtay, and make it a long diſpute within our ſelves, what kinde of goods they intend to ſteal, or what they would leave behind; but preſently appre<g ref="char:EOLhyphen"/>hend, and cauſe them to be puniſhed as felons for breaking of the houſe. And indeed ſuch diſputes do ſomtimes ſo amuſe the People, that whileſt they look farther off at things which they cannot ſo well, perchance, and clearly diſcerne, they loſe the ſight or conſideration of that, which is neer at hand, and eaſie to diſcerne, and which is of concernment and weight enough, though nothing elſe were put into the ſcale. Beſides, conſider this, That our Religion, like a moſt precious Pearle, and more in value then all the other goods, is contained with<g ref="char:EOLhyphen"/>in this Houſe, whoſe walls are thus broken down: perchance thoſe Thieves which breake them, looke not for this Pearle, nor thinke of it, but ſome other goods; yet when the walls are broken, another Thiefe, who better underſtands the value of that Pearle, may come with more eaſe, and rob us of it: It was far eaſier for the Ieſuites and the Church of Rome to rob us of the true Religion in England, when the juſt power of Parliaments, by which (under God) it was eſtabliſhed and defended, was ſo far trodden down; though perchance thoſe Thieves which breake them, looke not for this Pearle, nor thinke of it, but ſome other goods; yet when the walls are broken, another Thiefe, who better underſtands the value of that Pearle, may come with more eaſe, and rob us of it: It was far eaſier for the Ieſuites and the Church of Rome to rob us of the true Religion in England, when the juſt power of Parliaments, by which (under God) it was eſtabliſhed and defended, was ſo far trodden down; though perchance thoſe Stateſmen, who trod it downe, had no deſigne of letting in the Church of Rome to ſupplant the Truth, but only to exerciſe their own robbery upon mens Eſtates. But to perſwade the truth of this Paradox, I doe not ſee any reaſon why I ſhould believe, that thoſe great men, who for many
+<pb n="5" facs="tcp:112354:4"/>yeares have ſitten at the Helme in England, and given ſo ill counſell to our Soveraigne, were in the generality Papiſts, or that way intended; but only tainted with the ſame injuſtice and ambition that others were in former times, laboured to bring the People into ſlavery, that they might oppreſſe at their pleaſure, and ſtand above the reach of any Law.</p>
+            <p>Whoſoever hath obſerved how the Sabbath was kept of late yeares at <hi>White-Hall,</hi> what buſineſſes of Monopolies and other Oppreſſions were tranſacted in the afternoon, what kind of Sermons in the forenoon, about State and Preroga<g ref="char:EOLhyphen"/>tive, were preached before the King; he muſt needs believe that none of theſe men had any deſigne upon Religion at all, neither indeed was there any reaſon wherefore to attaine thoſe unjuſt ends, they ſhould deſire a change of Religion: for if we conſider what Religion will beſt ſerve to advance Tyranny in the Kingdome of <hi>England,</hi> and look into Hiſto<g ref="char:EOLhyphen"/>ry for examples of that kinde (for Hiſtory hath been counted the beſt glaſſe through which Prudence can look, when ſhe makes her judgements upon humane actions) we ſhall find that Popery could not doe it ſo well as that Proteſtant do<g ref="char:EOLhyphen"/>ctrine which hath been taught at Court theſe thirty yeares; and not only preached, but printed to the publike view by Authority, even to this laſt yeare 1644. Conſider what Principles they maintaine, and againſt whom they write: Their Adverſaries, whom they chooſe to deale withall, are all the moderne Authors of greateſt Learning and Reaſon, and of all Religions; whom in their writings they ſtile Ie<g ref="char:EOLhyphen"/>ſuites, and Puritans; under the latter of which names all the Reformed Churches of <hi>Europe</hi> are intended, except only the Prelatical Clergie of <hi>England,</hi> to whom, it ſeems, in the point of flattery to Princes, both Papiſt and Puritan, with all Lawyers and Politicall Authors are quite oppoſite: But be<g ref="char:EOLhyphen"/>fore
+<pb n="6" facs="tcp:112354:5"/>we expreſſe their Tenents in particular, look into the Engliſh Chronicles, and you will find (as we ſaid before) that direct Poperie did not ſo much advance Tyrannie, as our late Prelacie. When the Biſhops of <hi>England</hi> had another Head, which was the Pope, you may obſerve, that in matters of State they went many times very juſtly, and according to the intereſt of the whole Common-wealth: in the times of ſeduced Kings, they many times ſided with the Parliament, and oppoſed the illegall deſires of the Prince: many of them gave good advice to Kings, and did excellent offices in re<g ref="char:EOLhyphen"/>conciling them to their people, and keeping them in the right way. I could give many inſtances, eſpecially in three Reigns, which indeed had the moſt need of ſuch endeavours. But in theſe latter times, our Proteſtant Biſhops were wholly by aſſed at the Kings ſide, and meere ſervants to the Prerogative, a<g ref="char:EOLhyphen"/>gainſt all Intereſts of the Commonwealth: they never in Parliament gave Vote contrary to any of the Kings deſires, how prejudiciall ſoever it were to the Kingdome in generall, inſomuch as the King counted them a ſure part of his ſtrength in the Lords Houſe, to all purpoſes: and when their voices in Parliament were lately to be taken away, it was a common ſpeech of the Courtiers, That His Majeſtie was much weak<g ref="char:EOLhyphen"/>ned by loſing ſix and twenty voices. But conſider now what they have preached and printed concerning Monarchy, and you will wonder, that rationall men in any Kingdome, to flat<g ref="char:EOLhyphen"/>ter Princes, ſhould make all Mankinde elſe of ſo baſe a con<g ref="char:EOLhyphen"/>ſideration, as if Princes (as one ſayes) differed from other men in kinde and nature, no leſſe then a Shepheard from his Sheep, or other Heardſman from his Cattell. I will inſtance, for brevitie and clearneſſe, in one of them, who ſpeakes the pith of all the reſt in a large Book printed at <hi>Oxford</hi> this pre<g ref="char:EOLhyphen"/>ſent yeare 1644. and dedicated to the Marqueſſe of <hi>Ormond;</hi>
+               <pb n="7" facs="tcp:112354:5"/>the Book is intituled, <hi>Sacroſancta Regum Majeſtas;</hi> where that Author undertakes to vindicate the Power and Majeſtie of Kings againſt all Puritanicall and Ieſuiticall grounds and Principles, as he calls them. Thoſe Puritanicall and Ieſuiticall Tenents are all Diſcourſes, that have been written in this Kingdome for defence of the true and lawfull liberties of men, or by any Politicall Author in Europe of note, ſince Monarchies have been well and Civilly conſtituted for the behooſe of Mankinde. Among all thoſe Puritanicall and Ie<g ref="char:EOLhyphen"/>ſuiticall Tenents which this Author is angry with, and labours cagerly to confute, I will name a few:</p>
+            <p n="1">I. <hi>THat a King is greater then any particular man; but leſſe in value then the whole body of his People.</hi>
+            </p>
+            <p n="2">II. <hi>That a King receives his Crown from God, but not imme<g ref="char:EOLhyphen"/>diately, for it is by the hands of his People.</hi>
+            </p>
+            <p n="3">III. <hi>That the power of Kings is different in ſeverall King<g ref="char:EOLhyphen"/>domes; and their Prerogatives according to the Lawes of thoſe Realmes in which they reigne.</hi>
+            </p>
+            <p n="4">IV. <hi>That the Body repreſentative of a whole Kingdome, where there is ſuch, may and ought to reſtraine the King from impious actions, which tend to the ruine of the Kingdome.</hi>
+            </p>
+            <p n="5">V. <hi>That People may live without a King, but a King cannot be conceived without People.</hi>
+            </p>
+            <p n="6">VI. <hi>That Kings were ordained for the People, and not the People made for Kings.</hi>
+            </p>
+            <p>
+               <pb n="8" facs="tcp:112354:6"/>Theſe are ſome of thoſe Puritannicall and Ieſuiticall Tenents &amp; the chief, which he condemns ſo many writers for maintai<g ref="char:EOLhyphen"/>ning, ſuch as <hi>Bourchier, Roſſaeus, Buchanan, Suarez, Tho. Aqui<g ref="char:EOLhyphen"/>nas, Ocham, Bellarmine, Marſilius, Almontus,</hi> and many more, whom he there names againſt himſelfe. But the Biſhop, with the help only of Scripture, and ſome places of the Fa<g ref="char:EOLhyphen"/>thers, interpreted and managed by his own reaſon, is able to encounter them all; and hath drawn theſe Poſitions quite contrary to the former. Take them in his own words truly ſet down, and the places quoted.</p>
+            <p n="1">I. <hi>The King is better then all the people put together: and when Davids people ſay, Thou art better then a thouſand of us; that is (ſaith he) in ſound meaning, better then all of us.</hi> p. 169.</p>
+            <p n="2">II. <hi>The interpoſing of an humane act in the conſtitution of a King, doth not hinder his Soveraignty to be immediately from God: That though he gaine the Crown by Election or Conqueſt, yet he hath it from none but God, and that not mediately, but im<g ref="char:EOLhyphen"/>mediately,</hi> p. 122.</p>
+            <p n="3">III. <hi>That it is a poore and ignorant ſhift of Lawyers to wrong the ſacred Prerogative of Kings, when they acknowledge no more for the Royall Prerogative, then what the Municipall Law of the Kingdome hath allowed to is,</hi> p. 144.</p>
+            <p n="4">IV. <hi>In abuſe of Soveraignty to the ruine of the Kingdome, the Character of Nature doth not entitle us to ſo much ſelf defence, as in this caſe to reſiſt the King,</hi> p. 9. And in the firſt page he ſaith, That <hi>it is not lawfull, in any caſe or cauſe, for the Subject, or Subjects, in what notion ſoever imaginable, ſingly or joyntly, collectively or repreſentatively, to oppoſe the ſacred Authority of
+<pb n="9" facs="tcp:112354:6"/>the King by force or arms, or to reſiſt him in a defenſive or offen<g ref="char:EOLhyphen"/>ſive War.</hi>
+            </p>
+            <p n="5">V. <hi>That ſaying,</hi> That a People may be without a King, but not a King without a People, <hi>is very deceitfull; for</hi> (ſaith he) <hi>God fixed Government in one, and appointed a Governour, before that ever there were People to be governed,</hi> p. 178. <hi>And in</hi> pag. 84. he ſaith, That <hi>God ſixed Monarchy in Adam, before he had any childe; which ſhews, that God liked beſt of Monarchy, and that Kings were before People.</hi>
+            </p>
+            <p n="6">VI. <hi>That</hi> ſalus Regis <hi>is to be preferred before</hi> ſalus Populi; <hi>for it hath the prerogative like to the firſt Table, and</hi> ſalus Po<g ref="char:EOLhyphen"/>puli <hi>as the ſecond,</hi> p. 170.</p>
+            <p>Theſe are the Poſitions which he boldly ſets down con<g ref="char:EOLhyphen"/>trary to the firſt. But will you heare others as good as theſe, in his own words, and without any ſtraining or hiding any part of the ſenſe, but plainly ſet down.</p>
+            <p n="1">I. <hi>That Soveraigne power is not originally and radically in the people, nor by way of reduction, as in caſe of totall defailance of a King and his poſterity; the right cannot revert to the Com<g ref="char:EOLhyphen"/>munity againe,</hi> p. 11.</p>
+            <p n="2">II. <hi>It is a fooliſh new-coined diſtinction, to make a difference between a Kings perſon, and his authority; between his perſonall will, and his authoritative will,</hi> p. 32.</p>
+            <p n="3">III. <hi>To derive Kings from the people, is a great diſgrace to Kings; for it maketh them the baſeſt extract of the baſeſt of ra<g ref="char:EOLhyphen"/>tionall creatures, the Community,</hi> p. 45.</p>
+            <p n="4">
+               <pb n="10" facs="tcp:112354:7"/>IV. <hi>It is a fooliſh fancy to make any coordinate power in any perſons to the Sovereignty of a King,</hi> p. 62.</p>
+            <p n="5">V. <hi>How different ſoever Monarchies are in the world, yet there are ſome prime, radicall, and eſſentiall conſtitutives of Mo<g ref="char:EOLhyphen"/>narchy belonging to all Kings,</hi> which are three:</p>
+            <list>
+               <item>1. <hi>They are</hi> Poteſtas ſuprema, <hi>ſubordinate to none but God, they admit of no coordinate or collaterall power.</hi>
+               </item>
+               <item>2. Perpetua poteſtas, <hi>he cannot fall from his Sovereignty while he lives.</hi>
+               </item>
+               <item>3. Poteſtas legibus ſoluta, <hi>and as they ſay, from any humane <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oactive, or coercive power or cenſure,</hi> p. 140.</item>
+            </list>
+            <p n="6">VI. <hi>When any King, or his anceſtour hath been cheated out of his ſacred rights and Prerogatives by fraud or force, he may at any ſit opportunity afterward reſume them,</hi> p. 144.</p>
+            <p n="7">VII. <hi>Seeing that the Puritans doe ſay that if the Parliament doe erre, the remedy is to be left to the wiſdome and juſtice of God; why will they not acknowledge that it is as fit, when the King tranſgreſſeth againſt the rules of government, that the people and ſubjects ſubmit in patience, till it pleaſeth God to ſend a re<g ref="char:EOLhyphen"/>medy,</hi> p. 148.</p>
+            <p n="8">VIII. <hi>That the old received ſentence,</hi> Salus populi, ſuprema lex, <hi>muſt be carefully underſtood in Monarchy, and that it is more conſonant to Scripture to ſay,</hi> Salus Regis ſuprema populi ſalus; <hi>which thus he Engliſhes, The ſafety of the King, and his divine Royall Prerogative is the ſafeſt ſanctuary for the people,</hi> p. 163.</p>
+            <p n="9">IX. <hi>What is the meaning of that ſentence,</hi> Salus populi ſu<g ref="char:EOLhyphen"/>prema lex, <hi>he tells us in theſe words; the meaning of it is that the
+<pb n="11" facs="tcp:112354:7"/>Kingdom or State may not only probably and poſsibly, but really and exiſtently be ſuch, that the King muſt exerciſe an arbitrary po<g ref="char:EOLhyphen"/>wer, not ſtand upon private mens intereſt, or tranſgreſsing of laws made for the private good of individuals; but for the preſerva<g ref="char:EOLhyphen"/>tion of himſelfe and the publicke, may breake through all laws. This caſe may be when ſudden forreine invaſion, or homebred ſe<g ref="char:EOLhyphen"/>dition threaten King and Kingdome,</hi> p. 176.</p>
+            <p>Of this nature are all the poſitions and principles, which this booke containes; and not only this booke, but all Trea<g ref="char:EOLhyphen"/>tiſes, which have (ſince this unhappy difference) been autho<g ref="char:EOLhyphen"/>riſed at Oxford. Some of leſſe art and learning, but as much honeſty as this Author, expreſſe the ſame ſenſe in plainer termes, and tell us, That the King is proprietary Lord of the whole Kingdome, and all mens eſtates are his. Another con<g ref="char:EOLhyphen"/>cerning his ſacred authority, ſayes, That if the King, like <hi>Ne<g ref="char:EOLhyphen"/>buchadnezzer,</hi> ſhould ſet up a golden Image to be adored, the whole Parliament, if they refuſe that Idolatry, are bound to ſuffer death quietly, and not to reſiſt the King. Theſe barba<g ref="char:EOLhyphen"/>rous poſitions can ſerve to no other end then to miſlead Prin<g ref="char:EOLhyphen"/>ces from the wayes of reaſon and moderation; and to make them lift up their hearts above their brethren, as the Scrip<g ref="char:EOLhyphen"/>ture ſpeaks, to make them eſteem themſelves ſo far above the reſt of Mankinde, as if whole Nations were made for their pleaſure, and ſo ſubject to them, as the Beaſts were to <hi>Adam:</hi> for ſo our Author would ſeem to make them, when, to over<g ref="char:EOLhyphen"/>throw (as we ſaid before) that ever received, and undeniable ſaying, People were before Kings; he ſayes that <hi>Adam</hi> was a King, before there were any other people. It muſt needs be therefore granted that his Subjects were Beaſts, which is the ſame (without jeſting) which this Author would have the people in every Monarchy to be: therefore cannot I imagine
+<pb n="12" facs="tcp:112354:8"/>that ſo holy a thing as Religion was any way in the deſigne of thoſe Engliſh Clergy-men, who wrote againſt the liberties of their Country, or of thoſe Rulers who governed according to the preſcript of that kinde of writing; but only an intention of ſtretching the Prerogative Royall to ſuch an unmeaſurable greatneſſe, as might ſecure and advance the temporall ends of them, which depended on it. But ſome may object againſt this Paradox, &amp; ſay, Though it be granted that corrupt Stateſmen had no aime at all at alteration of Religion; yet ſurely our greateſt Clergy-men had. For what elſe could make them of late yeares in point of doctrine approach ſo neare to the Church of Rome, unleſſe it were a deſire of bringing both themſelves and others by degrees to a conjunction with it? that they have ſo written, their books will ſhew you; but if you would ſave a labour of ſearching whole volumes, you may finde their chiefe ſentences collected out of their owne bookes, the pages and lines quoted by a Scottiſh Miniſter Mr. <hi>Robert Baily</hi> in a diſcourſe of his called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Lau<g ref="char:EOLhyphen"/>denſium,</hi> which he ſent to our laſt Parliament of England. The men, whoſe ſentences he there recites, are the Arch<g ref="char:EOLhyphen"/>biſhop <hi>Laud, Montague, Pocklington, Helyn, Shelford,</hi> and o<g ref="char:EOLhyphen"/>thers; where you may ſee what faire approaches in many points of doctrine they make toward the Church of Rome, with what reverence they ſpeak of her; and with what ſcorn they name the Proteſtant Churches and their Authors, under the ſtile of Puritans, but this proves not that their deſigne was Religion, but rather temporall ends: for theſe very men have written bitterly againſt the Church of Rome, and moſt of them have profeſſed that the Puritans did not ſo farre nor fundamentally diſſent from their opinions as the Papiſts did: But it is true that the Puritans did goe more croſſe to their temporall ends, pompe and revenue, then the Papiſts would
+<pb n="13" facs="tcp:112354:8"/>have done. So that extremity of hatred againſt the Puritan, though he were nearer to them in matter of Religion, cauſed them to make theſe approaches towards the Papiſt, as being not ſo great an enemy to their temporall promotion. So that we ſee Religion it ſelfe was no more the end of their exorbi<g ref="char:EOLhyphen"/>tant actions, then it was of injuſtice in the great Stateſmen, who have laboured with the ſame diſeaſe in all ages and Re<g ref="char:EOLhyphen"/>ligions, whenſoever it hath pleaſed God by ſuch inſtruments to puniſh the ſins of any Nation.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
